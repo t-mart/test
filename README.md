@@ -1,11 +1,11 @@
 # test
 
 ```sh
-wc -l
+wc -l # this is the thing
 cat that
 ```
 
 ```console
-wc -l
+wc -l # this is the thing
 cat that
 ```
